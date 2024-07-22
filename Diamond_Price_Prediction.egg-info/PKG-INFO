@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Diamond-Price-Prediction
+Version: 0.0.1
+Author: Ayush Bhujade
+Author-email: ayushbhujade@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
